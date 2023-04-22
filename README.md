@@ -17,7 +17,7 @@
 </div>
 <h3 align="center">💬 제 SNS에요</h3>
 <div align="center">
-  <a href="www.instagram.com/tae._.young_07" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white" art="C" height=20></a>
+  <a href="https://www.instagram.com/tae._.young_07/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white" art="C" height=20></a>
 </div>
 <hr>
 <p align="center">아직은 부족한 점이 많지만 훌륭한 개발자가 되도록 노력하겠습니다! 😉</p>
