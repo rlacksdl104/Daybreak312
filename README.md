@@ -4,8 +4,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Daybreak312&show_icons=true&theme=dracula" height=150>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daybreak312&langs_count=5&theme=dracula" height=150><br>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leety6073" width=300>
-  <img src="https://mazandi.herokuapp.com/api?handle=leety6073&theme=dracula" width=300>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leety6073" height=150>
+  <img src="https://mazandi.herokuapp.com/api?handle=leety6073&theme=dracula" height=150>
 </p>
 <hr>
 <h3 align="center">📖 배우는 중이에요</h3>
