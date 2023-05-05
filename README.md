@@ -22,9 +22,5 @@
   <img src="https://img.shields.io/badge/GitHub-36393F?style=flat&logo=github&logoColor=181717" art="GitHub" height=20>
   <img src="https://img.shields.io/badge/GitKraken-36393F?style=flat&logo=github&logoColor=179287" art="GitKraken" height=20>
 </div>
-<h3 align="center">📱 Chat</h3>
-<div align="center">
-  <a href="https://www.instagram.com/tae._.young_07/" target="_blank"><img src="https://img.shields.io/badge/instagram-36393F?style=flat&logo=instagram&logoColor=E4405F" art="instargram" height=20></a>
-</div>
 <hr>
 <p align="center">아직은 부족한 점이 많지만 훌륭한 개발자가 되도록 노력하겠습니다! 😉</p>
