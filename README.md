@@ -52,6 +52,8 @@
             <div class="info-contents">
                 <img src="https://img.shields.io/badge/MySQL-36393F?style=flat&logo=mysql&logoColor=4479A1"
                      alt="Spring" height=20>
+                <img src="https://img.shields.io/badge/Redis-36393F?style=flat&logo=redis&logoColor=DC382D"
+                     alt="Spring" height=20>
             </div>
         </div>
     </div>
@@ -66,6 +68,8 @@
             <img src="https://img.shields.io/badge/IntelliJ idea-36393F?style=flat&logo=intellijidea&logoColor=167EEF"
                  alt="intellijidea" height=20>
             <img src="https://img.shields.io/badge/Github actions-36393F?style=flat&logo=githubactions&logoColor=2088FF"
+                 alt="githubactions" height=20>
+            <img src="https://img.shields.io/badge/Docker-36393F?style=flat&logo=docker&logoColor=2496ED"
                  alt="githubactions" height=20>
         </div>
         <h4>💾 Version Control</h4>
