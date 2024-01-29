@@ -32,8 +32,6 @@
             <h4>🌏 Language</h4>
             <div class="info-contents">
                 <img src="https://wakatime.com/badge/user/018afffb-16d5-4b61-b3db-2e2199441f14.svg">
-                <img src="https://img.shields.io/badge/C-36393F?style=flat&logo=c&logoColor=00599C"
-                     alt="C" height=20>
                 <img src="https://img.shields.io/badge/Java-36393F?style=flat&logo=java&logoColor=EA2D2E"
                      alt="JAVA" height=20>
                 <img src="https://img.shields.io/badge/Kotlin-36393F?style=flat&logo=Kotlin&logoColor=7F52FF"
@@ -41,8 +39,6 @@
             </div>
             <h4>🧱 Framework</h4>
             <div class="info-contents">
-                <img src="https://img.shields.io/badge/Spring-36393F?style=flat&logo=Spring&logoColor=6DB33F"
-                     alt="Spring" height=20>
                 <img src="https://img.shields.io/badge/Spring Boot-36393F?style=flat&logo=SpringBoot&logoColor=6DB33F"
                      alt="Spring" height=20>
                 <img src="https://img.shields.io/badge/JUnit5-36393F?style=flat&logo=junit5&logoColor=25A162"
