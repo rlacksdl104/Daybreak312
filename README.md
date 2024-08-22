@@ -10,6 +10,12 @@
     <h3>요구 사항 구체화의 최선을 추구하며 성장의 방법을 연구하는 이태영입니다.<br />
         백엔드 엔지니어가 되기 위해 공부하고 있습니다. 📕</h4>
 </div>
+<img
+  src="https://render.gitanimals.org/farms/Daybreak312"
+  width="600"
+  height="300"
+/>
+</a>
 <hr>
 <div class="status">
     <div class="status-line">
