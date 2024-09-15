@@ -8,25 +8,14 @@
 <div class="introduction">
     <h1>👋 Hello, World!</h1>
     <h3>요구 사항 구체화의 최선을 추구하며 성장의 방법을 연구하는 이태영입니다.<br />
-        백엔드 엔지니어가 되기 위해 공부하고 있습니다. 📕</h4>
+        백엔드 개발자가 되기 위해 공부하고 있습니다. 📕</h4>
 </div>
-<img
-  src="https://render.gitanimals.org/farms/Daybreak312"
-  width="600"
-  height="300"
-/>
-</a>
 <hr>
 <div class="status">
     <div class="status-line">
         <img src="https://github-readme-stats.vercel.app/api?username=Daybreak312&show_icons=true&theme=slateorange"
              height=175>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daybreak312&langs_count=5&theme=slateorange"
-             height=175>
-    </div>
-    <div class="status-line">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leety6073" height=175>
-        <img src="https://mazandi.herokuapp.com/api?handle=leety6073&theme=dracula" height=175>
     </div>
 </div>
 <hr>
@@ -89,7 +78,5 @@
         </div>
     </div>
 </div>
-<hr>
-<h4>아직은 부족한 점이 많지만 훌륭한 개발자가 되도록 노력하겠습니다!</h4>
 </body>
 </html>
