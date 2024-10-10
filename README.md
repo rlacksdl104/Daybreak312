@@ -7,16 +7,8 @@
 <body>
 <div class="introduction">
     <h1>👋 Hello, World!</h1>
-    <h3>요구 사항 구체화의 최선을 추구하며 성장의 방법을 연구하는 이태영입니다.<br />
-        백엔드 개발자가 되기 위해 공부하고 있습니다. 📕</h4>
-</div>
-<hr>
-<div class="status">
-    <div class="status-line">
-        <img src="https://github-readme-stats.vercel.app/api?username=Daybreak312&show_icons=true&theme=slateorange"
-             height=175>
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leety6073" height=175>
-    </div>
+    <h3>끊임없이 새로운것을 연구하고 배우는 신입개발자 김찹입니다<br />
+        프론트 개발자가 되기 위해 공부하고 있습니다. 📕</h4>
 </div>
 <hr>
 <div class="info">
